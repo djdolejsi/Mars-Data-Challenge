@@ -1,6 +1,6 @@
 # Mars-Data-Challenge
 
-## Deliverable 1: Scrape Titles and Preview Text from Mars News (40 points)
+## Deliverable 1: Scrape Titles and Preview Text from Mars News
 
 Create a new Jupyter notebook named mars_data_challenge_part_1.ipynb.
 
@@ -20,7 +20,7 @@ Print the list in your notebook.
 
 Optionally, store the scraped data in a file or database (to ease sharing the data with others). To do so, export the scraped data to either a JSON file or a MongoDB database.
 
-## Deliverable 2: Scrape and Analyze Mars Weather Data (60 points)
+## Deliverable 2: Scrape and Analyze Mars Weather Data
 
 Create a Jupyter notebook named mars_data_challenge_part_2.ipynb. Import the relevant dependencies for web scraping, Pandas, and Matplotlib.
 
